@@ -1,0 +1,14 @@
+/Users/olenakutasevych/Desktop/Lexicon/FizzBuzz/FizzBuzz/bin/Debug/net9.0/FizzBuzz
+/Users/olenakutasevych/Desktop/Lexicon/FizzBuzz/FizzBuzz/bin/Debug/net9.0/FizzBuzz.deps.json
+/Users/olenakutasevych/Desktop/Lexicon/FizzBuzz/FizzBuzz/bin/Debug/net9.0/FizzBuzz.runtimeconfig.json
+/Users/olenakutasevych/Desktop/Lexicon/FizzBuzz/FizzBuzz/bin/Debug/net9.0/FizzBuzz.dll
+/Users/olenakutasevych/Desktop/Lexicon/FizzBuzz/FizzBuzz/bin/Debug/net9.0/FizzBuzz.pdb
+/Users/olenakutasevych/Desktop/Lexicon/FizzBuzz/FizzBuzz/obj/Debug/net9.0/FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olenakutasevych/Desktop/Lexicon/FizzBuzz/FizzBuzz/obj/Debug/net9.0/FizzBuzz.AssemblyInfoInputs.cache
+/Users/olenakutasevych/Desktop/Lexicon/FizzBuzz/FizzBuzz/obj/Debug/net9.0/FizzBuzz.AssemblyInfo.cs
+/Users/olenakutasevych/Desktop/Lexicon/FizzBuzz/FizzBuzz/obj/Debug/net9.0/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/olenakutasevych/Desktop/Lexicon/FizzBuzz/FizzBuzz/obj/Debug/net9.0/FizzBuzz.dll
+/Users/olenakutasevych/Desktop/Lexicon/FizzBuzz/FizzBuzz/obj/Debug/net9.0/refint/FizzBuzz.dll
+/Users/olenakutasevych/Desktop/Lexicon/FizzBuzz/FizzBuzz/obj/Debug/net9.0/FizzBuzz.pdb
+/Users/olenakutasevych/Desktop/Lexicon/FizzBuzz/FizzBuzz/obj/Debug/net9.0/FizzBuzz.genruntimeconfig.cache
+/Users/olenakutasevych/Desktop/Lexicon/FizzBuzz/FizzBuzz/obj/Debug/net9.0/ref/FizzBuzz.dll
