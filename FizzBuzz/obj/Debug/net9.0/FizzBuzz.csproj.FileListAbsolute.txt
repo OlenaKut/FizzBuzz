@@ -12,3 +12,4 @@
 /Users/olenakutasevych/Desktop/Lexicon/FizzBuzz/FizzBuzz/obj/Debug/net9.0/FizzBuzz.pdb
 /Users/olenakutasevych/Desktop/Lexicon/FizzBuzz/FizzBuzz/obj/Debug/net9.0/FizzBuzz.genruntimeconfig.cache
 /Users/olenakutasevych/Desktop/Lexicon/FizzBuzz/FizzBuzz/obj/Debug/net9.0/ref/FizzBuzz.dll
+/Users/olenakutasevych/Desktop/Lexicon/FizzBuzz/FizzBuzz/obj/Debug/net9.0/FizzBuzz.sourcelink.json
