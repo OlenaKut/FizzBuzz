@@ -8,7 +8,7 @@ class NewTry
         Console.WriteLine("Enter three numbers separated by spaces:");
         string userValue = Console.ReadLine() ?? string.Empty;
         string[] input = userValue.Split(' ', StringSplitOptions.RemoveEmptyEntries);
-        if (userValue == string.Empty || userValue.Split().Length != 3)
+        if (input.Length != 3 || !int.TryParse(input[0], out _) || !int.TryParse(input[1], out _) || !int.TryParse(input[2], out _))
         {
             Console.WriteLine("You must type three numbers");
             return;
